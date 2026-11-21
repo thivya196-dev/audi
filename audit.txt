@@ -1,0 +1,9 @@
+[11:35, 21/11/2026] Tharu: JSX
+<input type="text" placeholder="Enter your name" />
+[11:35, 21/11/2026] Tharu: JSX
+<button
+  onClick={addToCart}
+  aria-label={Add ${product.name} to cart}
+>
+  Add to Cart
+</button>
